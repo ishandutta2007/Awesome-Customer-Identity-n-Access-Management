@@ -60,7 +60,7 @@ The global Customer Identity and Access Management (CIAM) market is estimated at
 
 ## 🔓 Open-Source GitHub Projects
 
-This section features active, production-proven open-source identity projects for self-hosting, custom authentication flows, and total data sovereignty. Projects are sorted by GitHub Star Count (descending) ⭐️.
+This section features active, production-proven open-source identity projects for self-hosting, custom authentication flows, and total data sovereignty. Projects are sorted by GitHub Stars_Count (descending) ⭐️.
 
 1. **[Supabase Auth](https://github.com/supabase/supabase)** [<img src="https://img.shields.io/github/stars/supabase/supabase?style=social&color=white" alt="Supabase Stars"/>](https://github.com/supabase/supabase/stargazers) 🌟  
    **The open-source Firebase alternative with built-in JWT authentication & user management.** **Apache-2.0 licensed**. Provides row-level security (RLS) integration with PostgreSQL, social logins (OAuth), magic links, SMS auth, and SAML SSO. **Best for**: Full-stack applications built on PostgreSQL. ⚡
